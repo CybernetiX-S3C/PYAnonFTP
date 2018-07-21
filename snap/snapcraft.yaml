@@ -1,0 +1,15 @@
+
+  name: pyanonftp
+  version: '1.1'
+  summary: Python Anon FTP is a tool to check specified IP/S and their ports for Anon users under FTP.
+  description: |
+    Python Anon FTP is a tool to check specified IP/S and their ports for Anon users under FTP.
+
+  grade: stable
+  confinement: strict
+
+  parts:
+    my-part:
+      # See 'snapcraft plugins'
+      plugin: nil
+  
